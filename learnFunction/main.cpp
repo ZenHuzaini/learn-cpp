@@ -4,7 +4,7 @@ using namespace std;
 
 
 void sayHi(string name, int age){
-cout << "the name is : " << name << " and my age is: " << age  << endl;
+    cout << "the name is : " << name << " and my age is: " << age  << endl;
 }
 
 int main()
