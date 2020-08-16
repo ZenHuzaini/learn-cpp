@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597435903 source:c:\users\huzaini\documents\cpp\cppbismillah\main.cpp
+	<iostream>
+	<cmath>
+	<Games.h>
+
+1597435682 c:\users\huzaini\documents\cpp\cppbismillah\include\games.h
+
